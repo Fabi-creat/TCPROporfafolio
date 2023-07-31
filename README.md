@@ -15,9 +15,13 @@ Incluye una descripción breve de quien es, experiencia, proyectos, y formas de 
 También incluye animación a la escritura de la página web con JavaScript.
 
 
-
 ## Capturas de pantalla 📷🙈
 
+![Captura de pantalla 2023-07-31 032948](https://github.com/Fabi-creat/TCPROporfafolio/assets/140466449/3cf0ec19-47c1-452a-bd57-27566fe319ea)
+![Captura de pantalla 2023-07-31 033012](https://github.com/Fabi-creat/TCPROporfafolio/assets/140466449/f837b678-a163-4b89-b95b-7b0f54bd8d26)
+![Captura de pantalla 2023-07-31 033039](https://github.com/Fabi-creat/TCPROporfafolio/assets/140466449/57434e4f-cfdc-4e60-89c8-dda2075f8ed4)
+![Captura de pantalla 2023-07-31 033103](https://github.com/Fabi-creat/TCPROporfafolio/assets/140466449/98954504-1021-42a8-9ef1-802202ff9826)
+![Captura de pantalla 2023-07-31 033127](https://github.com/Fabi-creat/TCPROporfafolio/assets/140466449/218ffb5c-beba-4eb4-898c-82500644e0f9)
 
 
 ## Objetivos 🏆😁
